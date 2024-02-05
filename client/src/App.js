@@ -177,7 +177,7 @@ function App() {
                 <div className="panel-block">
                   <p>
                     Contract Address:
-                    <b>0xdA6AD70cf43Ac1D938520368092a73aaB5bbcaE2</b>
+                    <b>0x1e08A11FB5681485e05975Cc7b14F0Beda969afa</b>
                   </p>
                 </div>
               </article>
